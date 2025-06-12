@@ -36,7 +36,7 @@ Você precisará ter o **JDK (Java Development Kit)** instalado em sua máquina 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/caio-arthur/arvore-binaria.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
@@ -55,13 +55,7 @@ Você precisará ter o **JDK (Java Development Kit)** instalado em sua máquina 
     ```
 
 4.  **Execute a classe principal:**
-    ```bash
-    # No Windows
-    java -cp bin com.meuprojeto.app.Main
-    
-    # No Linux/macOS
-    java -cp bin com.meuprojeto.app.Main
-    ```
+
 Após a execução, o menu gráfico da aplicação será exibido.
 
 ## 👤 Autor
