@@ -44,17 +44,7 @@ Você precisará ter o **JDK (Java Development Kit)** instalado em sua máquina 
     cd seu-repositorio
     ```
 
-3.  **Compile os arquivos `.java`:**
-    (Assumindo que seus arquivos estão na estrutura de pacotes dentro de um diretório `src`)
-    ```bash
-    # No Windows (usando ;)
-    javac -d bin src\com\meuprojeto\arvore\*.java src\com\meuprojeto\app\*.java
-
-    # No Linux/macOS (usando :)
-    javac -d bin src/com/meuprojeto/arvore/*.java src/com/meuprojeto/app/*.java
-    ```
-
-4.  **Execute a classe principal:**
+4.  **Compile e Execute a classe principal (Main.java):**
 
 Após a execução, o menu gráfico da aplicação será exibido.
 
