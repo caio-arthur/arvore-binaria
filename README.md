@@ -50,4 +50,4 @@ Após a execução, o menu gráfico da aplicação será exibido.
 
 ## 👤 Autor
 
-- **Seu Nome** - [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/carthur-backend-developer/))
+- **Caio Arthur** - [LinkedIn](https://www.linkedin.com/in/carthur-backend-developer/)
